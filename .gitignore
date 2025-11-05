@@ -14,5 +14,5 @@ test-model/
 *.pdf
 *.pptx
 
-# Ignore images
-images/
+# Ignore previous BIL-members photo
+images/BIL.jpeg
