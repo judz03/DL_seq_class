@@ -19,4 +19,4 @@ The tutorial is designed for participants with a basic understanding of biology 
 
 ## Execution
 The Jupyter Notebook is adapted to be executed in Google Colab, it can be accessed in this link: https://colab.research.google.com/github/mosotelo/Pytorch-and-HF-for-genomic-sequence-classification/blob/main/Sequence_classification_pytorch_transformers.ipynb
-Remeber to configure the runtime type to a **T4 GPU** instance for accelerated training.
+Remember to configure the runtime type to a **T4 GPU** instance for accelerated training.
