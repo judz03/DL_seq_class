@@ -13,3 +13,6 @@ test-model/
 # Ignore pdf and pptx files
 *.pdf
 *.pptx
+
+# Ignore previous BIL-members photo
+images/BIL.jpeg
