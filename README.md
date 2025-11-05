@@ -18,5 +18,5 @@ The tutorial is designed for participants with a basic understanding of biology 
 * Images: The images folder contains diagrams and figures used in the notebook.
 
 ## Execution
-The Jupyter Notebook is adapted to be executed in Google Colab, it can be accessed in this link: https://colab.research.google.com/github/judz03/Pytorch-and-HF-for-genomic-sequence-classification/blob/main/sequence_classification_with_deep_learning.ipynb
+The Jupyter Notebook is adapted to be executed in Google Colab, it can be accessed in this link: https://colab.research.google.com/github/mosotelo/Pytorch-and-HF-for-genomic-sequence-classification/blob/update-repo/sequence_classification_with_deep_learning.ipynb
 Remeber to configure the runtime type to a **T4 GPU** instance for accelerated training.
